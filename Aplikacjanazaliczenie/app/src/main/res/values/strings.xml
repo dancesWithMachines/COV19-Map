@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Aplikacja na zaliczenie</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="facebook_application_id" translatable="false">201185674556038</string>
-    <string name="facebook_login_protocol_scheme" translatable="false">fb201185674556038</string>
-</resources>

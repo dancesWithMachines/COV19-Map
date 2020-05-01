@@ -1,0 +1,3 @@
+Json:https://disease.sh/v2/countries?yesterday=false
+
+Zrodlo:https://corona.lmao.ninja/docs/#/Countries%20%2F%20Continents/get_v2_countries
