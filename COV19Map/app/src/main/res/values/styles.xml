@@ -8,6 +8,7 @@
         <item name="colorPrimary">#000</item>
         <item name="colorPrimaryDark">#A9A9A9</item>
         <item name="colorAccent">#FF0000</item>
+        <item name="android:windowBackground">#000</item>
     </style>
 
 </resources>
